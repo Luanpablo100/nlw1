@@ -3,6 +3,7 @@
 > Proper waste collection.
 
 ## Status
+[![Build Status](https://travis-ci.com/Luanpablo100/nlw1-starter.svg?branch=main)](https://travis-ci.com/Luanpablo100/nlw1-starter)
 
 For study use.
 Ecoleta is a project that aims to create and inform collection points for proper recycling of materials in your region.
