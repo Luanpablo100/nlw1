@@ -19,7 +19,7 @@ Ecoleta is a project that aims to create and inform collection points for proper
 
 ## Installation
 ```
-git clone https://github.com/Luanpablo100/casacriativa-rocketseat
+git clone https://github.com/Luanpablo100/nlw1-starter
 cd nlw1-starter/
 npm i
 ```
