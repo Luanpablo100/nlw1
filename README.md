@@ -18,6 +18,9 @@ Ecoleta is a project that aims to create and inform collection points for proper
 ### Register a collect point
 ![](https://live.staticflickr.com/65535/50414942801_e335211c89_c.jpg)
 
+## Requirements
+Node in version 8 or higher.
+
 ## Installation
 ```
 git clone https://github.com/Luanpablo100/nlw1-starter
