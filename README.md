@@ -23,8 +23,8 @@ Node in version 8 or higher.
 
 ## Installation
 ```
-git clone https://github.com/Luanpablo100/nlw1-starter
-cd nlw1-starter/
+git clone https://github.com/Luanpablo100/nlw1
+cd nlw1/
 npm i
 ```
 > To start the service
